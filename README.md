@@ -7,5 +7,6 @@ Colección de diseños de red, topologías de infraestructura y simulaciones de 
   * [Ver archivo de configuración (.pkt)](./tu_archivo_hospital.pkt)
 
 #### Topología de la Red Hospitalaria
-![Diagrama de la Red Hospitalaria](./captura_hospital.png)
+![Diagrama de la Red Hospitalaria](./red_hospital.png)
+
 
